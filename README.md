@@ -5,6 +5,9 @@ From 27,891 encounters to a boardroom-ready view of volume, cost and who actuall
 
 <img width="2940" height="1408" alt="image" src="https://github.com/user-attachments/assets/41d2b8b3-dd07-4691-8ed1-b03eadc9c4ce" />
 
+**🔗 Live demo**
+https://rkruhh.github.io/HospitalOperations_Dashboard/
+
 **✨ Features**
 
 An interactive, single-file dashboard for hospital executives (CEO, COO, CFO). One sticky filter bar drives every KPI, chart and insight.
